@@ -1,8 +1,8 @@
 # LGM-VIP-DataScience
 ---
-<center>
-![image](https://user-images.githubusercontent.com/68043263/130399219-e6c0e84d-0d30-4d52-aa52-ad9b7ef0885d.png)
-</center>
+
+![image](https://user-images.githubusercontent.com/68043263/130399415-e013a54e-818d-432e-b447-a9e408081cfd.png)
+
 
 ## Task 1
 
