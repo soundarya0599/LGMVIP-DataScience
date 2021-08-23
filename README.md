@@ -1,6 +1,9 @@
 # LGM-VIP-DataScience
 ---
 
+![image](https://user-images.githubusercontent.com/68043263/130399219-e6c0e84d-0d30-4d52-aa52-ad9b7ef0885d.png)
+
+
 ## Task 1
 
 Level 1: Beginner Level Task
